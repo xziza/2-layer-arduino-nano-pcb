@@ -1,7 +1,10 @@
 # 2-layer-arduino-nano-pcb
+Schematic:
+![image](https://user-images.githubusercontent.com/106928243/188240161-2780f5c3-d48d-45cf-86b9-6604127c3577.png)
 Footprint
 ![image](https://user-images.githubusercontent.com/106928243/188239356-41cdd1f8-fa9e-4ea6-a0c3-f902fdc911d5.png)
- 3D resolution
+
+3D resolution
 ![image](https://user-images.githubusercontent.com/106928243/188239301-4c932371-0233-4453-9a9d-69663f7a8673.png)
 ![image](https://user-images.githubusercontent.com/106928243/188239231-de2495e4-6957-431b-b0aa-c6ff7d82bd2b.png)
 Multiple layers assignment
